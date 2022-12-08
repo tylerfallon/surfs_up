@@ -22,3 +22,5 @@ Here is the summary information for the temperatures in December:
 - December has a wider distribution of temperature data compared with June. This can be seen by comparing the Standard Deviations of the data and looking at the 25%, 50%, and 75% values. December's temperature data had a standard deviation of 3.745920, while June's temperature data had a standard deviation of 3.257417. 
 
 ## Summary
+
+After analyzing the data, it can be determined that the weather in June is better for the ice cream shop to be open due to a higher average temperature, higher maximum/minimum temperatures, and a lower standard deviation in the temperature data. 
