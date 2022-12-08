@@ -23,4 +23,4 @@ Here is the summary information for the temperatures in December:
 
 ## Summary
 
-After analyzing the data, it can be determined that the weather in June is better for the ice cream shop to be open due to a higher average temperature, higher maximum/minimum temperatures, and a lower standard deviation in the temperature data. 
+After analyzing the data, it can be determined that the weather in June is better for the ice cream shop to be open due to a higher average temperature, higher maximum/minimum temperatures, and a lower standard deviation in the temperature data. However, the difference is not that large between the two opposing months, so it should not have a huge impact on the ability to open a shop. 
