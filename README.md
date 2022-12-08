@@ -24,3 +24,13 @@ Here is the summary information for the temperatures in December:
 ## Summary
 
 After analyzing the data, it can be determined that the weather in June is better for the ice cream shop to be open due to a higher average temperature, higher maximum/minimum temperatures, and a lower standard deviation in the temperature data. However, the difference is not that large between the two opposing months, so it should not have a huge impact on the ability to open a shop. 
+
+In order to have more data to make a decision, we could take into account information such as the precipitation levels for each month, as varying levels of rain could affect operations. 
+
+To obtain the precipitation information for the month of June, I would use the query:
+
+`session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date)==6).all()`
+
+To obtain the precipitation information for the month of June, I would use the query:
+
+`session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date)==12).all()`
