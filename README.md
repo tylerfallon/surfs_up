@@ -31,6 +31,6 @@ To obtain the precipitation information for the month of June, I would use the q
 
 `session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date)==6).all()`
 
-To obtain the precipitation information for the month of June, I would use the query:
+To obtain the precipitation information for the month of December, I would use the query:
 
 `session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date)==12).all()`
