@@ -12,6 +12,7 @@ Here is the summary information for the temperatures in June:
 ![june](https://github.com/tylerfallon/surfs_up/blob/main/june_temps.png?raw=true)
 
 Here is the summary information for the temperatures in December:
+
 ![dec](https://github.com/tylerfallon/surfs_up/blob/main/dec_temps.png?raw=true)
 
 - Analyzing the data, it can be seen that there are more recorded temperatures in June (1700) than in December (1517). 
